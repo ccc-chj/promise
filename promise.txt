@@ -1,0 +1,1 @@
+promise有两个参数：resolve, reject。在一个promise对象里面传入的参数函数里面，只关心自己的逻辑！如果在自己的逻辑里面调用了resolve，表明在这个promise回调里面的逻辑是.then回调。如果调用了reject参数，表明这是一个catch回调！
