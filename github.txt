@@ -1,0 +1,4 @@
+name:ccc-chj
+e-mail:470671204qq.com
+password:chenhaojie09
+git remote add origin git@github.com:ccc-chj/promise.git
